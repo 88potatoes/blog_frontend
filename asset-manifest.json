@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/blog_frontend/static/css/main.891a5c11.css",
-    "main.js": "/blog_frontend/static/js/main.f34c2ab1.js",
+    "main.css": "/blog_frontend/static/css/main.0b9c44d0.css",
+    "main.js": "/blog_frontend/static/js/main.da7ab263.js",
     "static/js/787.013c69b2.chunk.js": "/blog_frontend/static/js/787.013c69b2.chunk.js",
     "static/media/BaskingPersonalUse-lg5j5.otf": "/blog_frontend/static/media/BaskingPersonalUse-lg5j5.b4f53ae3f98fc36845b4.otf",
     "index.html": "/blog_frontend/index.html",
-    "main.891a5c11.css.map": "/blog_frontend/static/css/main.891a5c11.css.map",
-    "main.f34c2ab1.js.map": "/blog_frontend/static/js/main.f34c2ab1.js.map",
+    "main.0b9c44d0.css.map": "/blog_frontend/static/css/main.0b9c44d0.css.map",
+    "main.da7ab263.js.map": "/blog_frontend/static/js/main.da7ab263.js.map",
     "787.013c69b2.chunk.js.map": "/blog_frontend/static/js/787.013c69b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.891a5c11.css",
-    "static/js/main.f34c2ab1.js"
+    "static/css/main.0b9c44d0.css",
+    "static/js/main.da7ab263.js"
   ]
 }
